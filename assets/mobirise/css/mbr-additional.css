@@ -3075,3 +3075,19 @@ a {
   border-radius: 10px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+@media only screen and (max-width: 1400px) {
+  .mobilefriendly {
+    padding-top: 70px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .mobilefriendly {
+    padding-top: 100px;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .mobilefriendly {
+    padding-top: 170px;
+  }
+}
